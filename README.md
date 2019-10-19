@@ -3,10 +3,7 @@
 
 <h2>ZERROUKI SIFAQES</h2>
 <p>porfavor Milisa clik on this button :</p>
-
 <button>Click me</button>
-
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="NAV8FM6C9J9LY" />
